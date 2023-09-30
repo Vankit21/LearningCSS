@@ -1,6 +1,14 @@
-h1{
-    color:brown;
+
+#box{
+    background-color :blue;
+    color :white;
 }
-body{
-    background-color:blanchedalmond;
+
+.heading{
+    color :red;
 }
+
+button{
+   background-color :green;
+}
+
